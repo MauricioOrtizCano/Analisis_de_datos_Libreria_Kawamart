@@ -11,7 +11,22 @@ Debido a la cantidad de información que se registra en el Enterprise Resource P
 La empresa cuenta con SAP y se nos entrega una extracción de información de los últimos años con sus ventas donde se incluyen el precio de venta (en pesos colombianos), % descuento y ganancia de cada una de sus operaciones con todo el detalle relevante: país, ciudad, cliente, categoría de producto, subcategorías, fechas de envío, entre otros campos. Con base en esta información debemos ayudar en el proceso de entendimiento de los indicadores que son relevantes para la empresa, por lo que nuestra primera función es definir los 
 objetivos estratégicos a los que la empresa debe apuntar.
 
-#La gerencia de Kawamart definió el siguiente esquema de entregas:
+# La gerencia de Kawamart definió el siguiente esquema de entregas:
 1. Definición de objetivos estratégicos y análisis de datos para dentro de 3 semanas, mediante un resumen ejecutivo.
 2. Mapa estratégico y diseño de indicadores con las metas para dentro de 5 semanas.
 3. Entrega/muestra de los indicadores y dashboards diseñados para las 4 gerencias sobre Power BI.
+
+# Identificación del Problema:
+Una falta en la cultura de análisis de datos, estrategías regionales bien definidas y procesos eficientes para gestión de datos.
+
+# Objetivos
+1. Implementar un sistema de análisis de datos que le permita a la empresa tomar y desarrollar decisiones estrategicas, basadas en la información suministrada.
+2. Desarrollar un mapa estratégico con indicadores que sean relevantes para cada región, que facilite la toma de decisiones y el seguimiento del desempeño.
+3. Automatizar los procesos manuales para la gestión de datos, liberando tiempo valioso para que los gerentes se concentren en actividades estratégicas.
+
+# Datos proporcionados
+1. Compras: Base de datos con la información correspondiente a las ventas que se han realizado, con información del cliente , referencia del producto, región y ciudad de venta, categoría del producto, costo del producto y ganancia del producto, entre otros datos relevantes.
+2. Devoluciones: información correspondiente a las ordenes que presentaron devolución.
+3. Gerentes: Información del nombre del gerente y de que región esta a cargo. 
+
+
